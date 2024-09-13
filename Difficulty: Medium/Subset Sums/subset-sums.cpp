@@ -20,7 +20,6 @@ class Solution {
        vector<int>subsum;
        int sum=0;
        func(0,sum ,arr,subsum,n);
-       sort(subsum.begin(),subsum.end());
        return subsum;
     }
 };
