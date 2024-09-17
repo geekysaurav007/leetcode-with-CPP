@@ -18,7 +18,6 @@ public:
         int lh = helper(root->left);
 
         int rh = helper(root->right);
-
         if (rh == -1 || lh == -1)
             return -1;
         if (abs(lh - rh) > 1)
