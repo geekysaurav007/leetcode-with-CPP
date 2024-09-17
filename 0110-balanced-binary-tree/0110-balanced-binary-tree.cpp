@@ -25,5 +25,11 @@ public:
 
         return max(lh, rh) + 1;
     }
-    bool isBalanced(TreeNode* root) { return helper(root) != -1; }
+    bool isBalanced(TreeNode* root) { 
+        int ans=helper(root);
+       if(ans!=-1){
+        return true;
+       }
+       return false;
+     }
 };
