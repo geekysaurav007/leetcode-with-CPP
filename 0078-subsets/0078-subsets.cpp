@@ -1,6 +1,7 @@
 class Solution {
 public:
-    void combo(int index,vector<vector<int>> &ans,  vector<int> &temp,vector<int>& nums){
+    void combo(int index, vector<vector<int>>& ans, vector<int>& temp,
+               vector<int>& nums) {
         if (index == nums.size()) {
             ans.push_back(temp);
             return;
