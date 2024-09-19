@@ -24,7 +24,7 @@ public:
         // calculate maximum sum upto a "X" node;
         maxsum = max(maxsum, umbrella_sum);
         // return the path which we have to choose-> root+left side or root+ right side
-        return root->val + max(leftsum, rightsum);
+        return  max(leftsum, rightsum)+ root->val ;
     }
     int maxPathSum(TreeNode* root) {
         int maxsum = -9999999;
