@@ -15,16 +15,16 @@ public:
         }
         TreeNode* left = helper(root->left, p, q);
         TreeNode* right = helper(root->right, p, q);
-        if(left==NULL){
+        if (left == NULL) {
             return right;
-        }else if(right==NULL){
+        } else if (right == NULL) {
             return left;
-        }else{
+        } else {
             return root;
         }
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-      TreeNode *ans=  helper(root,p,q);
-      return ans;
+        TreeNode* ans = helper(root, p, q);
+        return ans;
     }
 };
