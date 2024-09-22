@@ -13,7 +13,7 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        int cnt=0;
+        int cnt = 0;
         queue<TreeNode*> q;
         if (root == NULL) {
             return 0;
@@ -30,7 +30,8 @@ public:
                 if (curr->right)
                     q.push(curr->right);
             }
-            cnt+=ans.size();
+            cnt += ans.size();
+            ans.clear();
         }
         return cnt;
     }
