@@ -18,10 +18,7 @@ public:
         int rootVal = root->val;
         int l = (root->left) ? root->left->val : 0;
         int r = (root->right) ? root->right->val : 0;
-        if (rootVal == l + r) {
-            return true;
-        } else {
-            return false;
-        }
+        bool ans=(rootVal == l + r) ?  true :  false;
+        return ans;
     }
 };
