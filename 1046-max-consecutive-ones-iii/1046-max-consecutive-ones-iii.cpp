@@ -11,10 +11,12 @@ public:
                 maxlen = max(maxlen, len);
             }
 
-            while (zero > k) {
-                if (arr[l] == 0)
-                    zero--;
-                l++;
+            if (zero > k) {
+                while (zero > k) {
+                    if (arr[l] == 0)
+                        zero--;
+                    l++;
+                }
             }
             r++;
         }
