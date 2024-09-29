@@ -5,15 +5,19 @@ public:
         while (r < arr.size()) {
             if (arr[r] == 0)
                 zero++;
-            if (zero <= k) {
-                int len = r - l + 1;
-                maxlen = max(maxlen, len);
-            }
+
+            // if (zero <= k) {
+            //     int len = r - l + 1;
+            //     maxlen = max(maxlen, len);
+            // }
+
             while (zero > k) {
                 if (arr[l] == 0)
                     zero--;
                 l++;
             }
+            int len = r - l + 1;
+                maxlen = max(maxlen, len);
             r++;
         }
         return maxlen;
