@@ -63,6 +63,8 @@ public:
         inorder(root);
         vector<int> res;
         BFS(target, k, res);
+          parent.clear();
         return res;
+      
     }
 };
