@@ -55,6 +55,7 @@ public:
                     visited.insert(parent[curr]->val);
                 }
             }
+            // we will only increment if we have something to traverse in queue;
            if(!q.empty()) k++;
         }
         return k;
