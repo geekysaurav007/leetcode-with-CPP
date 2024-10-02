@@ -64,6 +64,7 @@ public:
     int amountOfTime(TreeNode* root, int start) {
         inorder(root, start);
         int k = 0;
-        return BFS(s);
+        int ans= BFS(s);
+        return ans;
     }
 };
