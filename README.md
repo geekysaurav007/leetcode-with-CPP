@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
