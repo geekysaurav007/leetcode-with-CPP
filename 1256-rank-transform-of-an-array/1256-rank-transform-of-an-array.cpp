@@ -11,6 +11,7 @@ public:
         for (int i=0;i<arr.size();i++){
             res.push_back(mp[arr[i]]);
         }
+        ele.clear();
         return res;
     }
 };
