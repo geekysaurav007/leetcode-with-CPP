@@ -1,12 +1,14 @@
 class Solution {
 public:
     int minSubarray(vector<int>& v, int p) {
-        long long sum = accumulate(v.begin(), v.end(), 0LL) % p;
+        
+        long long sum =0;
+        sum= accumulate(v.begin(), v.end(), sum) % p;
         if (sum == 0)
             return 0; // Already divisible by p
 
         unordered_map<long long, int> mp;
-        mp[0] = -1; // Handle case when the subarray starts from index 0
+        mp[0] = -1; 
         long long current_sum = 0;
         int minLen = v.size();
 
