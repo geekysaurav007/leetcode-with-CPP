@@ -1,26 +1,25 @@
 class Solution {
 public:
-    int minSubarray(vector<int>& nums, int p) {
-        int total_sum = 0, n = nums.size();
-        for (int num : nums)
-            total_sum = (total_sum + num) % p;
-
-        if (total_sum == 0)
+    int minSubarray(vector<int>& v, int p) {
+        long long sum = accumulate(v.begin(), v.end(), 0LL) % p;
+        if (sum == 0)
             return 0; // Already divisible by p
 
-        unordered_map<int, int> prefix_mod = {{0, -1}}; // Remainder map
-        int current_sum = 0, min_len = n;
+        unordered_map<long long, int> mp;
+        mp[0] = -1; // Handle case when the subarray starts from index 0
+        long long current_sum = 0;
+        int minLen = v.size();
 
-        for (int i = 0; i < n; ++i) {
-            current_sum = (current_sum + nums[i]) % p;
-            int target_rem = (current_sum - total_sum + p) % p;
+        for (int i = 0; i < v.size(); i++) {
+            current_sum = (current_sum + v[i]) % p;
+            long long target_rem = (current_sum - sum + p) % p;
 
-            if (prefix_mod.count(target_rem))
-                min_len = min(min_len, i - prefix_mod[target_rem]);
-
-            prefix_mod[current_sum] = i;
+            if (mp.find(target_rem) != mp.end()) {
+                minLen = min(minLen, i - mp[target_rem]);
+            }
+            mp[current_sum] = i;
         }
 
-        return min_len == n ? -1 : min_len;
+        return minLen == v.size() ? -1 : minLen;
     }
 };
