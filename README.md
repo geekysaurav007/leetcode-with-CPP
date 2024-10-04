@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/geekysaurav007/c-leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/geekysaurav007/c-leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/geekysaurav007/c-leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/geekysaurav007/c-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/geekysaurav007/c-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/geekysaurav007/c-leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -138,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -168,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
