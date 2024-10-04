@@ -24,6 +24,7 @@ public:
             sum += s.first * s.second;
         }
         s.clear();
+        p.clear();
         return sum;
     }
 };
