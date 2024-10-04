@@ -23,6 +23,7 @@ public:
         for (auto s : p) {
             sum += s.first * s.second;
         }
+        
         return sum;
     }
 };
