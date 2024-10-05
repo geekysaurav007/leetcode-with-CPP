@@ -1,7 +1,8 @@
 class Solution {
 public:
-    bool check(map<char, int>& m1, string target) {
-        map<char, int> t;
+    bool check(unordered_map<char, int>& m1, string target) {
+        unordered_map<char, int> t;
+
         for (int i = 0; i < target.size(); i++) {
             t[target[i]]++;
         }
@@ -14,10 +15,10 @@ public:
         return true;
     }
     bool checkInclusion(string s1, string s2) {
-        map<char, int> m1;
-        bool ans = false;
         if (s1.size() > s2.size())
             return false;
+        bool ans = false;
+        unordered_map<char, int> m1;
         for (int i = 0; i < s1.size(); i++) {
             m1[s1[i]]++;
         }
