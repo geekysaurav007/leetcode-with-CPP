@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/geekysaurav007/c-leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
