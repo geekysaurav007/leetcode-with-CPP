@@ -14,15 +14,15 @@ class Solution {
 public:
     int index;
     TreeNode* buildBSTFromPreorder(vector<int>& preorder, int& index,
-                                   int bound) {
-        if (index == preorder.size() || preorder[index] > bound) {
+                                   int max) {
+        if (index == preorder.size() || preorder[index] > max) {
             return nullptr;
         }
 
         TreeNode* root = new TreeNode(preorder[index++]);
 
         root->left = buildBSTFromPreorder(preorder, index, root->val);
-        root->right = buildBSTFromPreorder(preorder, index, bound);
+        root->right = buildBSTFromPreorder(preorder, index, max);
 
         return root;
     }
