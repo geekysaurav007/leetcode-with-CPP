@@ -1,31 +1,30 @@
 class Solution {
 public:
+    bool check(map<char, int>& m1, string target) {
+        map<char, int> t;
+        for (int i = 0; i < target.size(); i++) {
+            t[target[i]]++;
+        }
+        for (const auto& [key, value] : t) {
+            if (!m1.count(key))
+                return false;
+            if (m1[key] != t[key])
+                return false;
+        }
+        return true;
+    }
     bool checkInclusion(string s1, string s2) {
-        int n1 = s1.length();
-        int n2 = s2.length();
-
-        if (n1 > n2) {
-            return false;
+        map<char, int> m1;
+        bool ans=false;
+        if(s1.size()>s2.size()) return false;
+        for (int i = 0; i < s1.size(); i++) {
+            m1[s1[i]]++;
         }
-
-        vector<int> count1(26, 0);
-        vector<int> count2(26, 0);
-
-        for (char c : s1) {
-            count1[c - 'a']++;
+        for (int i = 0; i <= s2.size()-s1.size(); i++) {
+            string target = s2.substr(i, s1.size());
+            ans= check(m1, target);
+            if(ans) break;
         }
-
-        for (int i = 0; i < n2; i++) {
-            count2[s2[i] - 'a']++;
-            if (i >= n1) {
-                count2[s2[i - n1] - 'a']--;
-            }
-
-            if (count1 == count2) {
-                return true;
-            }
-        }
-
-        return false;
+        return ans;
     }
 };
