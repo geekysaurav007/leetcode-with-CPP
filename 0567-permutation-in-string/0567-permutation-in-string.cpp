@@ -15,15 +15,17 @@ public:
     }
     bool checkInclusion(string s1, string s2) {
         map<char, int> m1;
-        bool ans=false;
-        if(s1.size()>s2.size()) return false;
+        bool ans = false;
+        if (s1.size() > s2.size())
+            return false;
         for (int i = 0; i < s1.size(); i++) {
             m1[s1[i]]++;
         }
-        for (int i = 0; i <= s2.size()-s1.size(); i++) {
+        for (int i = 0; i <= s2.size() - s1.size(); i++) {
             string target = s2.substr(i, s1.size());
-            ans= check(m1, target);
-            if(ans) break;
+            ans = check(m1, target);
+            if (ans)
+                break;
         }
         return ans;
     }
