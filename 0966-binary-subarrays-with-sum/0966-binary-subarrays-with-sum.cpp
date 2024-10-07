@@ -14,7 +14,7 @@ public:
             }
             if (sum <= goal) {
                 cnt += r - l + 1;
-                r++;
+                r++; 
             }
         }
         return cnt;
