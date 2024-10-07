@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/geekysaurav007/c-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geekysaurav007/c-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/geekysaurav007/c-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/geekysaurav007/c-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
