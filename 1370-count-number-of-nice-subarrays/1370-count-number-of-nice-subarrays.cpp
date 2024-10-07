@@ -1,28 +1,24 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& arr, int k) {
-        int count = 0, left = 0, right = 0, oddCount = 0, temp = 0;
+    int helper(vector<int>& nums, int k) {
+        int l = 0, r = 0, n = nums.size(), sum = 0, cnt = 0;
+        while (r < n) {
+            sum += (nums[r] % 2);
 
-        while (right < arr.size()) {
-            // Increment odd count if the current element is odd
-            if (arr[right] % 2 == 1) {
-                oddCount++;
-                temp = 0; // Reset temp when a new odd is added
+            while (sum > k) {
+                sum -= (nums[l] % 2);
+                l++;
             }
-
-            // When the count of odd numbers exceeds k
-            while (oddCount == k) {
-                temp++; // Count valid subarrays for the current window
-                if (arr[left] % 2 == 1)
-                    oddCount--;
-                left++;
+            if (sum <= k) {
+                cnt += r - l + 1;
             }
-
-            count += temp; // Add temp to count for each valid odd number
-                           // subarray ending at 'right'
-            right++;
+            r++;
         }
-
-        return count;
+        return cnt;
     }
-    };
+    int numberOfSubarrays(vector<int>& arr, int k) {
+        int x = helper(arr, k);
+        int y = helper(arr, k - 1);
+        return x - y;
+    }
+};
