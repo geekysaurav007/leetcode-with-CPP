@@ -3,7 +3,7 @@ public:
     int helper(vector<int>& arr, int k) {
         int l = 0, r = 0, n = arr.size();
         long long cnt = 0;
-        unordered_map<int, int> mp;
+        map<int, int> mp;
         while (r < n) {
             mp[arr[r]]++;
             while (mp.size() > k) {
