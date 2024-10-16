@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/geekysaurav007/c-leetcode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
+| [1304-longest-happy-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1923-sentence-similarity-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/geekysaurav007/c-leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/geekysaurav007/c-leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/geekysaurav007/c-leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/geekysaurav007/c-leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/geekysaurav007/c-leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/geekysaurav007/c-leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/geekysaurav007/c-leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
