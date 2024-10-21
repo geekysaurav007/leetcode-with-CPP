@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/geekysaurav007/c-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/geekysaurav007/c-leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/geekysaurav007/c-leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/geekysaurav007/c-leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/geekysaurav007/c-leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/geekysaurav007/c-leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/geekysaurav007/c-leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/geekysaurav007/c-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/geekysaurav007/c-leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
