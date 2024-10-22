@@ -13,40 +13,35 @@
 class Solution {
 public:
     long long kthLargestLevelSum(TreeNode* root, int k) {
-    if (root == NULL)
-        return -1;
+        if (root == NULL)
+            return -1;
 
-    queue<TreeNode*> q;
-    q.push(root);
-    vector<long long> levelSums;
+        queue<TreeNode*> q;
+        q.push(root);
+        vector<long long> ans;
+        while (!q.empty()) {
+            long long sum = 0;
+            int n = q.size();
+            for (int i = 0; i < n; i++) {
+                TreeNode* node = q.front();
+                q.pop();
 
-    // Level-order traversal (BFS)
-    while (!q.empty()) {
-        long long sum = 0;
-        int levelSize = q.size();  // Number of nodes at the current level
+                if (node != NULL) {
+                    sum += node->val;
 
-        // Process each node in the current level
-        for (int i = 0; i < levelSize; i++) {
-            TreeNode* node = q.front();
-            q.pop();
-
-            if (node != nullptr) {
-                sum += node->val;  // Add node's value to the level sum
-
-                // Push children for the next level
-                if (node->left != nullptr)
-                    q.push(node->left);
-                if (node->right != nullptr)
-                    q.push(node->right);
+                    if (node->left != NULL)
+                        q.push(node->left);
+                    if (node->right != NULL)
+                        q.push(node->right);
+                }
             }
-        }
 
-        if (sum > 0)  
-            levelSums.push_back(sum);
+            if (sum > 0)
+                ans.push_back(sum);
+        }
+        if (k > ans.size())
+            return -1;
+        nth_element(ans.begin(), ans.end() - k, ans.end());
+        return ans[ans.size() - k];
     }
-    if (k > levelSums.size())
-        return -1;
-    nth_element(levelSums.begin(), levelSums.end() - k, levelSums.end());
-    return levelSums[levelSums.size() - k];  // Return the k-th largest level sum
-}
 };
