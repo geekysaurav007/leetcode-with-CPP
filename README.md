@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/geekysaurav007/c-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/geekysaurav007/c-leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/geekysaurav007/c-leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/geekysaurav007/c-leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/geekysaurav007/c-leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/geekysaurav007/c-leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/geekysaurav007/c-leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/geekysaurav007/c-leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/geekysaurav007/c-leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
