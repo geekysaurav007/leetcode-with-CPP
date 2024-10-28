@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/geekysaurav007/c-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0090-subsets-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/geekysaurav007/c-leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/geekysaurav007/c-leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -338,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geekysaurav007/c-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
