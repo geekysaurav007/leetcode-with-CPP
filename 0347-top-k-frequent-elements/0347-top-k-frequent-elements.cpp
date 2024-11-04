@@ -1,17 +1,12 @@
-class compare {
-    bool operator()(pair<int, int> a, pair<int, int> b) {
-        return a.second > b.second;
-    }
-};
+
 class Solution {
 public:
+    typedef pair<int,int> p;
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        priority_queue<pair<int, int>, vector<pair<int, int>>,
-                       greater<pair<int, int>>>
+        priority_queue<p, vector<p>,
+                       greater<p>>
             pq;
         unordered_map<int, int> mp;
-        if (nums.size() == 1)
-            return {nums[0]};
         for (auto& num : nums) {
             mp[num]++;
         }
