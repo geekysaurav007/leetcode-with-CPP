@@ -7,7 +7,8 @@ public:
         while (i < word.size()) {
             char c = word[i];
             int count = 0;
-            while (i < word.size() && word[i] == c && count < 9) {
+
+            while (word[i] == c && count < 9) {
                 i++;
                 count++;
             }
