@@ -15,9 +15,10 @@ public:
         if (lmh.size() < rmh.size()) {
             lmh.push(rmh.top());
             rmh.pop();
-        } 
-        // check if left me 1 se jyada elements jyada hai right se toh left se utha ke right push
-        else if (lmh.size() - rmh.size() > 1  ) {
+        }
+        // check if left me 1 se jyada elements jyada hai right se toh left se
+        // utha ke right push
+        else if (lmh.size() - rmh.size() > 1) {
             rmh.push(lmh.top());
             lmh.pop();
         }
@@ -29,6 +30,7 @@ public:
             double median = rmh.top() + lmh.top();
             return median / 2.0;
         } else {
+            // odd size
             return lmh.top();
         }
     }
