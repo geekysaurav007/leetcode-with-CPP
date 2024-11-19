@@ -11,6 +11,8 @@ class compare {
 public:
     bool operator ()(node* a, node* b) { return a->end > b->end; }
 };
+// TC:-O(nlogn) 
+// SC:- O(N)
 class Solution {
 public:
     int findLongestChain(vector<vector<int>>& pairs) {
