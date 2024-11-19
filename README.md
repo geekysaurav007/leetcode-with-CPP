@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/geekysaurav007/c-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/geekysaurav007/c-leetcode/tree/master/1002-maximum-width-ramp) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/geekysaurav007/c-leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekysaurav007/c-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geekysaurav007/c-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/geekysaurav007/c-leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1829-maximum-units-on-a-truck) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/geekysaurav007/c-leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
