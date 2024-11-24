@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0009-palindrome-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
