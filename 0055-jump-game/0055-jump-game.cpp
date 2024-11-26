@@ -6,6 +6,7 @@ public:
             if (i > maxindex)
                 return false;
             maxindex = max(maxindex, i + nums[i]);
+            if(maxindex==nums.size()-1) return true;
         }
         return true;
     }
