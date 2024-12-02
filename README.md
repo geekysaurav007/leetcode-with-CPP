@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/geekysaurav007/c-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/geekysaurav007/c-leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/geekysaurav007/c-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/geekysaurav007/c-leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/geekysaurav007/c-leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekysaurav007/c-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
