@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/geekysaurav007/c-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/geekysaurav007/c-leetcode/tree/master/0042-trapping-rain-water) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/geekysaurav007/c-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
