@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekysaurav007/c-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geekysaurav007/c-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0890-lemonade-change) |
