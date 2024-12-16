@@ -14,7 +14,7 @@ public:
             }else if(interval[i][1]>=newInterval[0] && interval[i][0]<=newInterval[1]){
                 newInterval[0]=min(newInterval[0],interval[i][0]);
                 newInterval[1]=max(newInterval[1],interval[i][1]);
-            }else if(interval[i][1]>newInterval[0] && !(interval[i][0]<=newInterval[1])){
+            }else {
                 break;
             }
             i++;
