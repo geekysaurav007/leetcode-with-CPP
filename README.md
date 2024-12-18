@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0646-maximum-length-of-pair-chain) |
+| [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geekysaurav007/c-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/geekysaurav007/c-leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/geekysaurav007/c-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/geekysaurav007/c-leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Monotonic Stack
@@ -434,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
