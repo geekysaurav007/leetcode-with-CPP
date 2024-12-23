@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/geekysaurav007/c-leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekysaurav007/c-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0435-non-overlapping-intervals) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
@@ -440,5 +442,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
