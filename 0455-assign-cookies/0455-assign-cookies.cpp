@@ -8,8 +8,8 @@ public:
         int i = 0, j = 0, cnt = 0;
         while (i < m and j < n) {
             if (g[i] <= s[j]) {
-                i++;
-                j++;
+                // i++;
+                // j++;
                 cnt++;
             } else {
                 j++;
