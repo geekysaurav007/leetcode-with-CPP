@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/geekysaurav007/c-leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2089-maximum-matrix-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/geekysaurav007/c-leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/geekysaurav007/c-leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekysaurav007/c-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1923-sentence-similarity-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/geekysaurav007/c-leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/geekysaurav007/c-leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/geekysaurav007/c-leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/geekysaurav007/c-leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2586-longest-square-streak-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/geekysaurav007/c-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Backtracking
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geekysaurav007/c-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2554-minimum-total-distance-traveled](https://github.com/geekysaurav007/c-leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/geekysaurav007/c-leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -457,4 +462,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
+## Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
