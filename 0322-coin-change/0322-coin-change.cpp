@@ -10,7 +10,7 @@ public:
         long long take =
             solve(index, nums, sum + nums[index], target, cnt + 1, dp);
         if (take != INT_MAX) {
-            take = take + 1;
+            ++take;
         }
         long long not_take = solve(index + 1, nums, sum, target, cnt, dp);
 
