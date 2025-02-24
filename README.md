@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/geekysaurav007/c-leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/geekysaurav007/c-leetcode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/geekysaurav007/c-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/geekysaurav007/c-leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/geekysaurav007/c-leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/geekysaurav007/c-leetcode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
+| [1078-remove-outermost-parentheses](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/geekysaurav007/c-leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
