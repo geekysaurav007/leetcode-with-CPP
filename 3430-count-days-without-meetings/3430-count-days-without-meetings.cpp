@@ -6,18 +6,16 @@ public:
         for (int i = 0; i < arr.size(); i++) {
             if (ans.empty() || arr[i][0] > ans.back()[1]) {
                 ans.push_back(arr[i]);
-            }
-            else {
+            } else {
                 ans.back()[1] = max(ans.back()[1], arr[i][1]);
             }
         }
-       int cnt=0;
-       for(auto nums:ans){
-        int a=nums[0];
-        int b=nums[1];
-        cnt+=(b-a+1);
-       }
-       return days-cnt;
-
+        int cnt = 0;
+        for (auto nums : ans) {
+            int a = nums[0];
+            int b = nums[1];
+            cnt += b - a + 1;
+        }
+        return days-cnt;
     }
 };
