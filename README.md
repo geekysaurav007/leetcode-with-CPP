@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/geekysaurav007/c-leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/geekysaurav007/c-leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3430-count-days-without-meetings](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/geekysaurav007/c-leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/geekysaurav007/c-leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3430-count-days-without-meetings](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/3430-count-days-without-meetings) |
 ## Binary Search Tree
 |  |
 | ------- |
