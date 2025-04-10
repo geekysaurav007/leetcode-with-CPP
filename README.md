@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1829-maximum-units-on-a-truck) |
 | [1923-sentence-similarity-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/geekysaurav007/c-leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/geekysaurav007/c-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Backtracking
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/geekysaurav007/c-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
 |  |
@@ -510,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
