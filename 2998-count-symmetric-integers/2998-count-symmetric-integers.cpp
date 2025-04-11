@@ -12,7 +12,6 @@ public:
         for (int i = low; i <= high; i++) {
             string n = to_string(i);
             int l = n.length();
-            if(n.length()%2!=0) continue;
             if (n.length() % 2 == 0) {
                 int left = check(0, l / 2 - 1, n);
                 int right = check(l / 2, l - 1, n);
